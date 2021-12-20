@@ -14,10 +14,10 @@
 
 ### Connection à la base de données reussie après quelques complications,
 
-### Creation de l'utilisateur Remi(utilisateur) et duhiriwe(superutilisateur)
+### Creation de l'utilisateur Remi(utilisateur) et duhiriwe(superutilisateur),
 
-### Mises en place d'un templantes
+### Mises en place d'un templantes,
 
-### Tentativa de deploiement sur heruku, dont j'ai rentre beaucoup de problemes du a l'imcopatibilité du pachage pywin32==301 dont Heroku à du mal a prendre en main.
+### Tentative de deploiement sur Heruku, dont j'ai rencontré beaucoup de problèmes dû à l'incompatibilité du pachage pywin32==301 dont Heroku à du mal à prendre en main,
 
-###  Je me suis fait plaisir de faire un peu d'analyse des données
+###  Je me suis fait plaisir de faire un peu d'analyse des données.
