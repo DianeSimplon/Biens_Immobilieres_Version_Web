@@ -1,0 +1,1 @@
+web : gunicorn Bien_immobilier.wsgi
